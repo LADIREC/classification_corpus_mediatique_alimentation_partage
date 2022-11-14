@@ -1,0 +1,1 @@
+# ladirec_class_partage
