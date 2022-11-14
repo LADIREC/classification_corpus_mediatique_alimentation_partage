@@ -1,4 +1,9 @@
 # Classification of text files from English and French news article corpora
+Auteurs et autrices:
+Developpement corpus_fr: Pascal Brissette
+Developpement corpus_en: Lisa Teichmann
+Classification manuelle: Alexia Wildhaber-Riley, Yu Chen Shi
+Moissonnage du corpus recits_faims: Julien Vallières-Gingras
 
 ## Dossiers
 corpus_fr contient les resultats et le code associés au corpus d'articles d'actualité en français
