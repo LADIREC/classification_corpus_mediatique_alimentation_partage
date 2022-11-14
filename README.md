@@ -1,9 +1,9 @@
 # Classification of text files from English and French news article corpora
 
 ## Dossiers
-corpus_en contient toutes les données et le code associés au corpus d'articles d'actualité en anglais
+corpus_en contient les resultats et le code associés au corpus d'articles d'actualité en anglais
 
-corpus_fr contient toutes les données et le code associés au corpus d'articles d'actualité français
+corpus_fr contient les resultats et le code associés au corpus d'articles d'actualité français
 
 ## Rapports
 Chaque dossier comprend un rapport détaillé qui documente le modèle et nos résultats du processus de classification en comparant différents algorithmes d'apprentissage automatique.
