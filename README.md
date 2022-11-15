@@ -1,15 +1,15 @@
 # Classification of text files from English and French news article corpora
 
 ## Auteurs et autrices:
-* Developpement corpus_fr: Pascal Brissette
-* Developpement corpus_en: Lisa Teichmann
-* Classification manuelle: Alexia Wildhaber-Riley, Yu Chen Shi
+* Développement corpus_fr: Pascal Brissette
+* Développement corpus_en: Lisa Teichmann
+* Classification manuelle: Alexia Wildhaber-Riley, Yu Chen Shi, Pascal Brissette
 * Moissonnage du corpus recits_faims: Julien Vallières-Gingras
 
 ## Dossiers
-corpus_fr contient les resultats et le code associés au corpus d'articles d'actualité en français
+corpus_fr contient les résultats et le code associés au corpus d'articles d'actualité en français
 
-corpus_en contient les resultats et le code associés au corpus d'articles d'actualité en anglais
+corpus_en contient les résultats et le code associés au corpus d'articles d'actualité en anglais
 
 ## Rapports
 Chaque dossier comprend un rapport détaillé qui documente le modèle et les résultats du processus de classification en comparant différents algorithmes d'apprentissage automatique.
@@ -28,4 +28,4 @@ L’opération de classification consiste à sélectionner d’abord un échanti
 5.	Communications
 *	Ex. : livres, conférences, comme sujet de débat politique
 
- Les documents ne sont pas classifiés selon leur degré de pertinence: la présence d’au moins une expression ou d’un mot renvoyant à l'alimentation humaine suffit pour qu’un document soit considéré comme pertinent. Puis, nous avons formé un algorithme d’apprentissage automatique pour ne garder que les documents pertinents. Il est à noter que les documents écartés à cette étape ne sont pas détruits, mais pourraient servir à des analyses subséquentes.
+Les documents ne sont pas classifiés selon leur degré de pertinence: la présence d’au moins une expression ou d’un mot renvoyant à l'alimentation humaine suffit pour qu’un document soit considéré comme pertinent. Puis, nous avons formé un algorithme d’apprentissage automatique pour ne garder que les documents pertinents. Il est à noter que les documents écartés à cette étape ne sont pas détruits, mais pourraient servir à des analyses subséquentes.
