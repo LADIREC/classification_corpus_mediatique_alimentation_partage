@@ -30,7 +30,7 @@ L’opération de classification consiste à sélectionner d’abord un échanti
 
 Les documents ne sont pas classifiés selon leur degré de pertinence: la présence d’au moins une expression ou d’un mot renvoyant à l'alimentation humaine suffit pour qu’un document soit considéré comme pertinent. Puis, nous avons formé un algorithme d’apprentissage automatique pour ne garder que les documents pertinents. Il est à noter que les documents écartés à cette étape ne sont pas détruits, mais pourraient servir à des analyses subséquentes.
 
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+[![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
